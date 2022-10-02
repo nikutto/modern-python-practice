@@ -12,7 +12,7 @@ Run app.
 `python3 app`
 
 Run tests.
-`pytest`
+`pytest tests`
 
 # Reference
 

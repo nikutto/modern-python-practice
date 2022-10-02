@@ -45,7 +45,8 @@ jobs:
 
   notify:
     runs-on: ubuntu-latest
-
+    needs: build
+    
     steps:
       - name: Do notify
         run: echo 'CI Succeed!'

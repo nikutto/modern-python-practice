@@ -12,7 +12,7 @@ Run app.
 `python3 -m app`
 
 Run tests.
-`pytest tests`
+`python3 -m pytest tests`
 
 Run lint.
 `black <module>`

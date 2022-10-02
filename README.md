@@ -9,7 +9,7 @@ Start venv.
 `source bin/activate`
 
 Run app.
-`python3 app`
+`python3 -m app`
 
 Run tests.
 `pytest tests`

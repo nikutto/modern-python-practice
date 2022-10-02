@@ -1,4 +1,4 @@
-if __name__ == "__main__":
-    from app import main
+from .myhello import main
 
+if __name__ == "__main__":
     main()

@@ -3,10 +3,16 @@
 To learn modern python development.
 
 
-# How To
+# How to?
 
+Start venv.
 `source bin/activate`
+
+Run app.
 `python3 app`
+
+Run tests.
+`pytest`
 
 # Reference
 

@@ -14,6 +14,9 @@ Run app.
 Run tests.
 `pytest tests`
 
+Run lint.
+`black <module>`
+
 # Reference
 
 [`__main__.py`](https://docs.python.org/ja/3/library/__main__.html#main-py-in-python-packages)
